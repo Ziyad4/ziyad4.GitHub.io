@@ -11,5 +11,8 @@ bbw
   </html>
 this d1ck <b>is you</b>
 <a href="https://www.mohmal.com/ar/inbox"> bobo </a>
-اهاه 
-<img src"https://www.tiktok.com/@rizkyx98/video/7061712610839776513?is_copy_url=1&is_from_webapp=v1"> a7ah </img>
+اهاه 
+
+<body>
+ <img src"https://i0.wp.com/apkmody.io/wp-content/uploads/2018/07/Instagram-Cover-Photo.jpg?resize=1440%2C720&ssl=1"
+  </body>
