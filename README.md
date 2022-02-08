@@ -14,6 +14,5 @@ this d1ck <b>is you</b>
 اهاه 
 
 <body>
- <img src=" ![image](https://user-images.githubusercontent.com/99249323/152989025-b2c1a8b9-c976-4846-ba85-6ce31461f396.jpeg)
->
+ <img src="![image](https://user-images.githubusercontent.com/99249323/152989025-b2c1a8b9-c976-4846-ba85-6ce31461f396.jpeg)">
   </body>
