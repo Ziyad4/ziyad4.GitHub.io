@@ -14,5 +14,5 @@ this d1ck <b>is you</b>
 اهاه 
 
 <body>
- <img src"https://i0.wp.com/apkmody.io/wp-content/uploads/2018/07/Instagram-Cover-Photo.jpg?resize=1440%2C720&ssl=1"></img> 
+ <img src="https://i0.wp.com/apkmody.io/wp-content/uploads/2018/07/Instagram-Cover-Photo.jpg?resize=1440%2C720&ssl=1"> 
   </body>
