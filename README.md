@@ -10,4 +10,4 @@ bbw
   bobo
   </html>
 this d1ck <b>is you</b>
-<a href="https://www.mohmal.com/ar/inbox" bobo
+<a href="https://www.mohmal.com/ar/inbox"> bobo </a>
