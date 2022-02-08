@@ -23,4 +23,5 @@ this d1ck <b>is you</b>
   don't be a fire 
   <p> be a woottaa</p>
 <h1 style=“ color: red” >  Boner<\h1>
-<h1 style="color: gray">lana<\h1>
+<h1 style="color: gray">lana <\h1>
+<b "color: red">5ozee <\b>
