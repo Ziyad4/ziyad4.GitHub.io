@@ -28,3 +28,5 @@ this d1ck <b>is you</b>
 <h1 style=" color: red" >  Boner</h1>
 <h1 style="color: blue">lana</h1>
 
+h1 {background:#red;
+}
