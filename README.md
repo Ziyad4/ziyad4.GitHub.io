@@ -28,7 +28,7 @@ this d1ck <b>is you</b>
   <p>التدخين سبب رئيسي لامراض السرطان</p>
   don't be a fire 
   <p> be a woottaa</p>
-<h1 style=" color: red" >  Boner</h1>
+<h1 style=" color: red" >  purple</h1>
 <h1 style="color: blue">lana</h1>  
 
 
