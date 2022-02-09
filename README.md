@@ -3,6 +3,10 @@
 <h1 style=" color: red" >
 pleas dont enter hear
 رجاءً لا تدخل الموقع
+ <style type"text/css">
+   h1 {background: #red;
+   }
+  </style>
   </h1>
 <title>
   Dackar
@@ -28,5 +32,4 @@ this d1ck <b>is you</b>
 <h1 style=" color: red" >  Boner</h1>
 <h1 style="color: blue">lana</h1>
 
-h1 {background:#red;
-}
+
