@@ -34,5 +34,4 @@ this d1ck <b>is you</b>
 
 <style>
 </style>
-![image](https://user-images.githubusercontent.com/99249323/153202659-77c3e373-927d-49b1-b6a6-ad319e9756e6.jpeg)
-
+![image](https://user-images.githubusercontent.com/99249323/153202659-77c3e373-927d-49
