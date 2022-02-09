@@ -4,8 +4,7 @@
 pleas dont enter hear
 رجاءً لا تدخل الموقع
  <style type"text/css">
-   h1 {background-color: #red;
-   }
+   h1 {background-color: #red;}
   </style>
   </h1>
 <title>
