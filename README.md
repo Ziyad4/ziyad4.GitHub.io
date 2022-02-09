@@ -32,8 +32,7 @@ this d1ck <b>is you</b>
 <h1 style="color: blue">lana</h1>  
 
 
-<style type="text/css">
-  h1 {background-color: yellow;}
+<style>
 </style>
 ![image](https://user-images.githubusercontent.com/99249323/153202659-77c3e373-927d-49b1-b6a6-ad319e9756e6.jpeg)
 
