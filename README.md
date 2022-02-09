@@ -35,5 +35,5 @@ this d1ck <b>is you</b>
 <style type="text/css">
   h1 {background-color: yellow;}
 </style>
-![this is an image](https://user-images.githubusercontent.com/99249323/153201580-e96544e4-a6c7-4ecf-ad8b-0112aab72ccc.jpeg)
+(https://user-images.githubusercontent.com/99249323/153201580-e96544e4-a6c7-4ecf-ad8b-0112aab72ccc.jpeg)
 
