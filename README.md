@@ -1,9 +1,6 @@
 # <b>شيشها</b>
 موقع يمكن انصب عليك لبيع التبغ ومشتقاته مو ف السعودية
 
-<style type="text/css">
-  h1 {background-color: yellow;}
-</style>
 
 <body>
 <h1 style=" color: red" >
